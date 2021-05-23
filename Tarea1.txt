@@ -1,0 +1,10 @@
+# :wave: APRENDIENDO
+Para utilizar el repositorio en la nube que permite el control de versiones de proyecto (github)
+se descargo git para tener una interfaz grafica para e manejo de bajada y subido de proyecto
+Cuando se descarga git ya en la computadora desde una carpeta se puede
+utilizar las 2 opciones que se habilitan.
+La prueba la hice desde el GUI y no tuve problemas
+
+---PROBLEMAS---
+Desde mi Laptop, no se puede REALIZAR PROCESOS desde el Bash (como el cmd de git)
+porque al yo dar clic ahi se me creaba un archivo pero al ejecutarlo me salia error
